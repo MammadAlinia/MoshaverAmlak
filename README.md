@@ -1,2 +1,2 @@
 # MoshaverAmlak
-a simple wfp application with save and loading data from sql server
+a simple WPF application with save and loading data from sql server
